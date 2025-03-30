@@ -34,14 +34,14 @@ This project is an experimental AI-powered travel advisor that utilizes Generati
 
 
 
-3️⃣ Tools 🛠️
+3️⃣ Tools
 
 | Tool              | Description                                      |
 |------------------|--------------------------------------------------|
 | SerperDevTool    | Search tool for retrieving relevant travel information. |
 | ScrapeWebsiteTool | Scrapes real-time data from travel websites.    |
 
-🛠️ Tech Stack
+## Tech Stack
 
     Python
 
