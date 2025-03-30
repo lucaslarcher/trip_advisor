@@ -44,12 +44,10 @@ This project is an experimental AI-powered travel advisor that utilizes Generati
 ## Tech Stack
 
     Python
-
     CrewAI – Multi-agent framework
-
     LangChain & OpenAI – LLM-powered reasoning
-
     LiteLLM – Model aliasing for efficient API usage
+    Streamlit - For a easy front-end
 
 ## How It Works
 
