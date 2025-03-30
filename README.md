@@ -15,36 +15,32 @@ This project is an experimental AI-powered travel advisor that utilizes Generati
 
 1️⃣ Agents
 
-| Agent Name | Role | Goal|
-|----------|----------|----------|
+| Agent Name          | Role                      | Goal                                                   |
+|---------------------|--------------------------|--------------------------------------------------------|
+| Destiny Researcher | Travel Destination Expert | Find the best travel options based on user preferences. |
+| Traveler Profiler  | User Analysis Specialist  | Understand traveler needs, constraints, and preferences. |
+| Itinerary Planner  | Travel Planner            | Create optimized itineraries for the trip.             |
+| Budget Advisor     | Financial Optimizer       | Optimize trip costs while maintaining a great experience. |
 
-| Destiny Researcher	| Travel Destination Expert	| Find the best travel options based on user preferences. | 
-
-| Traveler Profiler	User Analysis Specialist	| Understand traveler needs, constraints, and preferences. |
-
-| Itinerary Planner	Travel | Planner	| Create optimized itineraries for the trip. |
-
-| Budget Advisor	| Financial Optimizer	| Optimize trip costs while maintaining a great experience. |
 
 2️⃣ Tasks 
 
-Task Name	Description	Assigned Agent
+| Task Name       | Description                                    | Assigned Agent        |
+|----------------|------------------------------------------------|-----------------------|
+| Research Task  | Research destinations matching the user’s interests. | Destiny Researcher    |
+| Profile Task   | Generate a detailed traveler profile.          | Traveler Profiler     |
+| Planning Task  | Build a day-by-day travel itinerary.           | Itinerary Planner     |
+| Budget Task    | Optimize travel costs for the proposed itinerary. | Budget Advisor       |
 
-Research Task	Research destinations matching the user’s interests.	Destiny Researcher
-
-Profile Task	Generate a detailed traveler profile.	Traveler Profiler
-
-Planning Task	Build a day-by-day travel itinerary.	Itinerary Planner
-
-Budget Task	Optimize travel costs for the proposed itinerary.	Budget Advisor
 
 
 3️⃣ Tools 🛠️
 
-Tool	Description
-SerperDevTool	Search tool for retrieving relevant travel information.
+| Tool              | Description                                      |
+|------------------|--------------------------------------------------|
+| SerperDevTool    | Search tool for retrieving relevant travel information. |
+| ScrapeWebsiteTool | Scrapes real-time data from travel websites.    |
 
-ScrapeWebsiteTool	Scrapes real-time data from travel websites.
 🛠️ Tech Stack
 
     Python
