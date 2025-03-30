@@ -60,20 +60,21 @@ ScrapeWebsiteTool	Scrapes real-time data from travel websites.
 
 2️⃣ Agents work together to:
 
-    Research ideal destinations
+Research ideal destinations
 
-    Profile the traveler
+Profile the traveler
 
-    Create an optimized itinerary
+Create an optimized itinerary
 
-    Suggest a cost-effective budget
-    3️⃣ The CrewAI system executes the tasks and returns a complete travel plan.
+Suggest a cost-effective budget
+
+3️⃣ The CrewAI system executes the tasks and returns a complete travel plan.
 
 ## Running the Project
 
 1️⃣ Install Dependencies
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 2️⃣ Set Environment Variables
 
@@ -85,7 +86,7 @@ SERPER_API_KEY=your_serper_api_key
 
 3️⃣ Run the Script
 
-streamlit run front.py
+    streamlit run front.py
 
 ## Roadmap
 
