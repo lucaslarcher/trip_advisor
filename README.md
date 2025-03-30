@@ -15,15 +15,16 @@ This project is an experimental AI-powered travel advisor that utilizes Generati
 
 1️⃣ Agents
 
-Agent Name	Role	Goal
+| Agent Name | Role | Goal|
+|----------|----------|----------|
 
-Destiny Researcher	Travel Destination Expert	Find the best travel options based on user preferences.
+| Destiny Researcher	| Travel Destination Expert	| Find the best travel options based on user preferences. | 
 
-Traveler Profiler	User Analysis Specialist	Understand traveler needs, constraints, and preferences.
+| Traveler Profiler	User Analysis Specialist	| Understand traveler needs, constraints, and preferences. |
 
-Itinerary Planner	Travel Planner	Create optimized itineraries for the trip.
+| Itinerary Planner	Travel | Planner	| Create optimized itineraries for the trip. |
 
-Budget Advisor	Financial Optimizer	Optimize trip costs while maintaining a great experience.
+| Budget Advisor	| Financial Optimizer	| Optimize trip costs while maintaining a great experience. |
 
 2️⃣ Tasks 
 
