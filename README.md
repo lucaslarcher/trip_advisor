@@ -81,8 +81,11 @@ Suggest a cost-effective budget
 Create a .env or modify config.py with:
 
 OPENAI_API_KEY=your_openai_api_key
+
 OPENAI_MODEL_NAME=gpt-4o
+
 SERPER_API_KEY=your_serper_api_key
+
 
 3️⃣ Run the Script
 
