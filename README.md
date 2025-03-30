@@ -77,11 +77,11 @@ Suggest a cost-effective budget
 
 Create a config.json or modify config.py with:
 
-{
-    "OPENAI_API_KEY": "",
-    "MODEL": "",
-    "SERPER_API_KEY": ""
-}
+    {
+        "OPENAI_API_KEY": "",
+        "MODEL": "",
+        "SERPER_API_KEY": ""
+    }
 
 
 3️⃣ Run the Script
