@@ -75,13 +75,13 @@ Suggest a cost-effective budget
 
 2️⃣ Set Environment Variables
 
-Create a .env or modify config.py with:
+Create a config.json or modify config.py with:
 
-OPENAI_API_KEY=your_openai_api_key
-
-OPENAI_MODEL_NAME=gpt-4o
-
-SERPER_API_KEY=your_serper_api_key
+{
+    "OPENAI_API_KEY": "",
+    "MODEL": "",
+    "SERPER_API_KEY": ""
+}
 
 
 3️⃣ Run the Script
